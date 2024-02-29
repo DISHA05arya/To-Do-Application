@@ -1,0 +1,21 @@
+/* p{
+    color: blue;
+
+} */
+
+/* #as{
+    color: blue;
+} */
+
+/* .A{
+    color: blueviolet;
+} */
+
+*{
+    color: chartreuse;
+    margin: 30px;
+    padding: 10px;
+}
+h3,h4,p{
+color: cadetblue;
+}
